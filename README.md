@@ -1,7 +1,23 @@
 # iCoder-Website
 Link for the website:
 https://icoder-website.netlify.app/
-This project is build using bootstrap.I build this project to learn and improve my bootstrap skills
+
+Introducing the Blog Website - a responsive blog website designed to showcase my skills in using the Bootstrap framework. With this website, users can login or logout, browse different blog posts, and even contact the site owner with any questions or comments they may have.
+
+The bootstrap website has a clean and modern UI that adapts to any screen size, making it easy to use on desktop, tablet, or mobile devices. The website's layout and design make it easy to navigate, ensuring that users can find the content they are looking for quickly and efficiently.
+
+With the login/logout feature, users can create their own account and log in to access exclusive content and features. The contact page allows users to reach out to the site owner with any questions or comments they may have, creating a more interactive and engaging experience for visitors.
+
+The Bootstrap Blog also features a variety of blog posts on different topics, providing users with a wealth of informative and entertaining content to browse through. Whether you're looking to improve your skills in web development or simply looking for some inspiration, the Bootstrap Blog has something for everyone.
+
+Overall, this Blog website is a great showcase of my skills in using the Bootstrap framework, and a valuable resource for anyone looking to learn more about web development and design.
+
+
+
+
+
+
+
 
 ![Screenshot (203)](https://user-images.githubusercontent.com/97290036/232680064-1b748eeb-2ae0-44c3-9d11-4235ae8d7ef6.png)
 
