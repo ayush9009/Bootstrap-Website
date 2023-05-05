@@ -1,5 +1,5 @@
 # iCoder-Website
-Link for the website:
+Website:
 https://icoder-website.netlify.app/
 
 Introducing the Blog Website - a responsive blog website designed to showcase my skills in using the Bootstrap framework. With this website, users can login or logout, browse different blog posts, and even contact the site owner with any questions or comments they may have.
